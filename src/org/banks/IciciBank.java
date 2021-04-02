@@ -7,9 +7,6 @@ public class IciciBank {
 		String S1="Greens";
 		String S2="Tech";
 		
-		System.out.println(System.identityHashCode(S1));
-		System.out.println(System.identityHashCode(S2));
-		
 		String ans=S1.concat(S2);
 		System.out.println(ans);
 		System.out.println(System.identityHashCode(ans));
