@@ -8,6 +8,6 @@ public class AxisBank {
 		System.out.println("Savings amount is Rs.50,000");
 	}
 	public void deposit(int amount) {
-		System.out.println("Amounts");
+		System.out.println("Amounts=15,0000");
 	}
 }
