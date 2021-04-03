@@ -14,6 +14,9 @@ public class Company {
 	public void giftVocher() {
 		System.out.println("Gift vocher");
 	}
+	public void familymembercount(int a) {
+		System.out.println("Total Famil Member count is "+a);
+	}
 	
 	
 }

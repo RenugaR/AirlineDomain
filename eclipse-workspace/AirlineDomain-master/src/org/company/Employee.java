@@ -23,6 +23,7 @@ public class Employee extends Company{
 		e.empName();
 		e.transport();
 		e.shiftAllowance();
+		e.familymembercount(3);
 	}
 	
 }
