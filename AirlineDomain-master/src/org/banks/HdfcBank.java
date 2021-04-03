@@ -6,7 +6,7 @@ public class HdfcBank {
 		// dataType varaibleName=value;
 		// byte
 		byte b = 127;
-		System.out.println("Byte value is " + b);
+		System.out.println("Byte value of b is " + b);
 
 		// short
 		short s = 32000;
@@ -17,7 +17,7 @@ public class HdfcBank {
 		System.out.println("Integer value is " + a);
 
 		// long
-		long l = 987654323;
+		long l = 987654323l;
 		System.out.println("Long value is " + l);
 		
 		//double
